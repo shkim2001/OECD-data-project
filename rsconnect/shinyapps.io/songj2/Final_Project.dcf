@@ -1,0 +1,14 @@
+name: Final_Project
+title: Final_Project
+username:
+account: songj2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8578388
+bundleId: 6962635
+url: https://songj2.shinyapps.io/Final_Project/
+when: 1678906675.83829
+lastSyncTime: 1678906675.8383
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|Technical_Report.pdf
