@@ -1,6 +1,7 @@
 ---
 ## Stat 220, Final Project
 ---
+*By Sunny Kim, Joshua Song*
 
 ### Abstract
 
